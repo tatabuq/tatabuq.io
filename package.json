@@ -15,8 +15,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.0.0",
-    "gatsby-plugin-gatsby-cloud": "^2.0.0",
+    "gatsby": "^4.2.0",
+    "gatsby-plugin-gatsby-cloud": "^4.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
