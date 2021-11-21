@@ -7,7 +7,7 @@ const IndexPage = () => {
         <main>
             <title>tatabuq</title>
             <h1>tatabuq io</h1>
-            <h2>where we do testing!</h2>
+            <h2>V4!</h2>
         </main>
     )
 }
